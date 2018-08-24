@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucassilveira88/silvertest/issues"
   },
-  "homepage": "https://github.com/lucassilveira88/silvertest#readme"
+  "homepage": "https://github.com/lucassilveira88/silvertest#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
